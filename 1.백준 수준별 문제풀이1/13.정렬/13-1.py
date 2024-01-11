@@ -1,0 +1,11 @@
+#오름차순 수 정렬
+import sys
+
+T = int(input())
+num_list = [int(sys.stdin.readline()) for i in range(T)]
+
+num_list.sort()
+
+for i in num_list:
+    print(i)
+

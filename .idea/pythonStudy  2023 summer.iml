@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0.오답노트" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/1.입출력" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/10.기하" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/11.시간복잡도" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/12.브루트포스" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/13.정렬" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/14.집합과 맵" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/15.약수, 배수와 소수 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/2.조건문" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/3.반복문" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/4.배열" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/5.문자열" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/6.백준 심화1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/7.이차원 배열" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/8.일반 수학1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1.백준 수준별 문제풀이1/9.약수, 배수와 소수1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python/1분 코딩" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python/2장" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python/3장" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python/4장" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python/5장" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python/부록 파이썬 코딩 면허 시험 20제" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2.Do It! Jump to Python/4장/되새김 문제" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mymod" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
